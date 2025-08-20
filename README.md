@@ -1,24 +1,36 @@
 <!-- ============================= -->
 <!-- GitHub Start / Perfil -->
-<!-- Esta seção fica no topo do seu perfil -->
 <h1 align="center">👾 Hi, my name is Robert 👾<br>Welcome to my GitHub!</h1>
 <!-- ============================= -->
 
 <!-- ============================= -->
-<!-- GitHub Stats e Linguagens -->
-<!-- Mostra suas estatísticas e as linguagens mais usadas -->
+<!-- Estatísticas estáticas -->
 <div align="center">
-  <!-- Estatísticas do GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Robert-art-full&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub stats" />
-  
-  <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Robert-art-full&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Top Languages" />
+
+**Total Stars Earned:** 15 ⭐  
+**Total Commits:** 45 📝  
+**Total PRs:** 2 🔀  
+
+</div>
+<!-- ============================= -->
+
+<!-- ============================= -->
+<!-- Linguagens mais usadas (estático) -->
+<div align="center">
+
+**Most Used Languages:**  
+- Java – 30% ☕  
+- Python – 25% 🐍  
+- HTML – 15% 📄  
+- JavaScript – 12% ⚡  
+- MySQL – 10% 🗄️  
+- C++ – 8% 💻  
+
 </div>
 <!-- ============================= -->
 
 <!-- ============================= -->
 <!-- Principais habilidades / linguagens -->
-<!-- Ícones das tecnologias que você domina -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" />
   <img width="12" />
@@ -38,7 +50,6 @@
 
 <!-- ============================= -->
 <!-- Redes sociais -->
-<!-- Links para LinkedIn, Instagram e Gmail -->
 <div align="center">
   <a href="https://www.linkedin.com/in/robert-monteiro-da-silva-50a556244/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=flat" height="25" alt="LinkedIn" />
@@ -53,18 +64,7 @@
 <!-- ============================= -->
 
 <!-- ============================= -->
-<!-- Contribution Graph (Pacman) -->
-<!-- Mostra suas contribuições de forma divertida -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Robert-art-full/Robert-art-full/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Robert-art-full/Robert-art-full/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Robert-art-full/Robert-art-full/output/pacman-contribution-graph.svg">
-</picture>
-<!-- ============================= -->
-
-<!-- ============================= -->
 <!-- Ferramentas usadas -->
-<!-- IDEs, editores e sistemas operacionais -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ" />
   <img width="12" />
@@ -75,12 +75,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 </div>
 <!-- ============================= -->
-
-<!-- ============================= -->
-<!-- Spotify Recently Played -->
-<!-- Mostra as últimas músicas que você ouviu -->
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify Recently Played" />
-</div>
-<!-- ============================= -->
-
