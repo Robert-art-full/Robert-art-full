@@ -42,6 +42,7 @@
           <div style="width: 1%; background-color: #00599c;" title="C++ - 1%"></div>
         </div>
 
+        <clid>
           <p><span style="color:#ff4b82;">■</span> Java (30%)</p>
           <p><span style="color:#ffcc00;">■</span> Python (25%)</p>
           <p><span style="color:#e34c26;">■</span> HTML (20%)</p>
@@ -49,6 +50,7 @@
           <p><span style="color:#00758f;">■</span> JavaScript (6%)</p>
           <p><span style="color:#264de4;">■</span> CSS (3%)</p>
           <p><span style="color:#00599c;">■</span> C++ (1%)</p>
+          </clid>
       </td>
     </tr>
   </table>
