@@ -1,29 +1,23 @@
 <!-- Título e boas-vindas -->
 <h1 align="center">👾Hi, my name is Robert👾<br>👾Welcome to my GitHub!!!👾</h1>
 
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Robert-art-full&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+</p>
+
+<!-- Most Used Languages (Visual com porcentagens) -->
 <h3 align="center">📊 Most Used Languages</h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20"/> Java — <b>30%</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/> Python — <b>25%</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20"/> HTML — <b>20%</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20"/> MySQL — <b>15%</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20"/> JavaScript — <b>6%</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20"/> CSS — <b>3%</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20"/> C++ — <b>1%</b>
+  <span style="color:#ff4b82;">🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥</span> Java (30%)<br>
+  <span style="color:#ffcc00;">🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨</span> Python (25%)<br>
+  <span style="color:#e34c26;">🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧</span> HTML (20%)<br>
+  <span style="color:#f0db4f;">🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨</span> MySQL (15%)<br>
+  <span style="color:#00758f;">🟦🟦🟦🟦🟦🟦</span> JavaScript (6%)<br>
+  <span style="color:#264de4;">🟦🟦🟦</span> CSS (3%)<br>
+  <span style="color:#00599c;">🟦</span> C++ (1%)
 </p>
-
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20"/> Java — <b>30%</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/> Python — <b>25%</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20"/> HTML — <b>20%</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20"/> MySQL — <b>15%</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20"/> JavaScript — <b>6%</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20"/> CSS — <b>3%</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20"/> C++ — <b>1%</b>
-</p>
-
 
 <!-- Tecnologias que você usa -->
 <h3 align="center">🚀 Tecnologias que eu uso:</h3>
