@@ -6,17 +6,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Robert-art-full&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </p>
 
-<!-- Most Used Languages (Visual com porcentagens) -->
+<!-- Most Used Languages (com porcentagens reais automáticas) -->
 <h3 align="center">📊 Most Used Languages</h3>
 
 <p align="center">
-  <span style="color:#ff4b82;">🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥</span> Java (30%)<br>
-  <span style="color:#ffcc00;">🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨</span> Python (25%)<br>
-  <span style="color:#e34c26;">🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧</span> HTML (20%)<br>
-  <span style="color:#f0db4f;">🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨</span> MySQL (15%)<br>
-  <span style="color:#00758f;">🟦🟦🟦🟦🟦🟦</span> JavaScript (6%)<br>
-  <span style="color:#264de4;">🟦🟦🟦</span> CSS (3%)<br>
-  <span style="color:#00599c;">🟦</span> C++ (1%)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robert-art-full&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
 <!-- Tecnologias que você usa -->
