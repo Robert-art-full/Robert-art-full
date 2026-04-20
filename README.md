@@ -1,64 +1,50 @@
-<!-- Título e boas-vindas -->
-<h1 align="center">👾Hi, my name is Robert👾<br>👾Welcome to my GitHub!!!👾</h1>
+<h1 align="center">Hi 👋, I'm Robert</h1>
 
-<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Robert-art-full&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+Backend developer in transition with real experience in production environments (Level III support).<br>
+Building applications using Java, Spring Boot, Python, SQL, and AWS, with a focus on REST APIs and scalability.<br>
+Driven to solve real-world problems and continuously evolve as a software engineer.
 </p>
 
-<!-- Most Used Languages (com porcentagens reais automáticas) -->
-<h3 align="center">📊 Most Used Languages</h3>
+###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robert-art-full&layout=compact&theme=tokyonight" alt="Top Languages">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Robert-art-full&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Robert-art-full&layout=compact&theme=dracula" height="150"/>
+</div>
 
-<!-- Tecnologias que você usa -->
-<h3 align="center">🚀 Tecnologias que eu uso:</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-</p>
+###
 
-<!-- Ferramentas -->
-<h3 align="center">🧰 Ferramentas:</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
-</p>
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 
-<!-- Redes sociais -->
-<h3 align="center">🌐 Redes sociais:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/seu-usuario" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="LinkedIn">
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30"/>
+</div>
+
+###
+
+## 📫 Connect with me
+
+<div align="center">
+  <a href="SEU_LINK_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/seu-usuario" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="25" alt="Instagram">
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="Gmail">
-  </a>
-</p>
+</div>
 
-<!-- Pacman Contribution Graph -->
-<h3 align="center">🎮 Pacman Contribution Graph:</h3>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Robert-art-full/Robert-art-full/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Robert-art-full/Robert-art-full/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Robert-art-full/Robert-art-full/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
+###
 
-<!-- Spotify Recently Played -->
-<h3 align="center">🎵 Recently Played on Spotify:</h3>
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify Recently Played">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Robert-art-full/Robert-art-full/output/pacman-contribution-graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/Robert-art-full/Robert-art-full/output/pacman-contribution-graph.svg">
+</picture>
